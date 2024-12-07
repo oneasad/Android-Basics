@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Currency Converter</string>
-    <string name="currency_converter">Currency Converter</string>
-    <string name="amount_in_usd">Amount in USD</string>
-    <string name="convert_to_pkr">Convert to PKR</string>
-</resources>
