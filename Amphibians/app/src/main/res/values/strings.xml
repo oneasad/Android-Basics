@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="gbs_title">Great Basin Spadefoot</string>
+    <string name="gbs_type">Toad</string>
+    <string name="gbs_description">This toad spends most of its life underground due to the arid desert conditions in which it lives. Spadefoot toads earn the name because of their hind legs which are wedged to aid in digging. They are typically grey, green, or brown with dark spots.</string>
+
+</resources>

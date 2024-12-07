@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ThirtyDays</string>
+
+    <!-- Titles (Motivational Quotes) -->
+    <string name="title_1">Believe in yourself</string>
+    <string name="title_2">Dream big, work hard</string>
+    <string name="title_3">Stay positive, work hard</string>
+    <string name="title_4">Every day is a new beginning</string>
+    <string name="title_5">You are capable of amazing things</string>
+    <string name="title_6">Success is the sum of small efforts</string>
+    <string name="title_7">Your only limit is your mind</string>
+    <string name="title_8">Doubt kills more dreams than failure</string>
+    <string name="title_9">Believe you can and you’re halfway there</string>
+    <string name="title_10">Be a warrior, not a worrier</string>
+    <string name="title_11">Success doesn\'t just find you</string>
+    <string name="title_12">Hard work beats talent</string>
+    <string name="title_13">Make today count</string>
+    <string name="title_14">Be the change you want to see</string>
+    <string name="title_15">Start where you are</string>
+    <string name="title_16">Keep going, you\'re getting there</string>
+    <string name="title_17">It’s never too late to be what you want</string>
+    <string name="title_18">Great things take time</string>
+    <string name="title_19">Push yourself, no one else will</string>
+    <string name="title_20">Don’t stop until you’re proud</string>
+    <string name="title_21">Turn your dreams into reality</string>
+    <string name="title_22">Success is a journey, not a destination</string>
+    <string name="title_23">Believe in the power of yet</string>
+    <string name="title_24">Keep your eyes on the stars</string>
+    <string name="title_25">The best time for new beginnings is now</string>
+    <string name="title_26">Embrace the journey</string>
+    <string name="title_27">Your future is created by what you do today</string>
+    <string name="title_28">Chase your dreams</string>
+    <string name="title_29">Success starts with self-discipline</string>
+    <string name="title_30">You’ve got what it takes</string>
+
+    <!-- Descriptions (Natural Beauty Wallpapers) -->
+    <!-- Revised Descriptions (Motivational Meanings) -->
+    <string name="description_1">Trust in your abilities, for believing in yourself is the first step toward success.</string>
+    <string name="description_2">Set big goals and commit to working hard to achieve them. Dreams turn into reality through effort.</string>
+    <string name="description_3">A positive mindset combined with hard work will help you overcome challenges and reach your goals.</string>
+    <string name="description_4">No matter how yesterday went, today is a fresh chance to begin again and make progress.</string>
+    <string name="description_5">You have the potential to accomplish extraordinary things. Believe in what you\'re capable of.</string>
+    <string name="description_6">Success comes from small, consistent efforts. Every little step you take brings you closer to your goals.</string>
+    <string name="description_7">The boundaries you face are often those you create in your own mind. Overcome mental limits to achieve more.</string>
+    <string name="description_8">More dreams are lost to self-doubt than failure. Believe in yourself and keep pushing forward.</string>
+    <string name="description_9">Once you believe you can succeed, you\'re already halfway to achieving your goal.</string>
+    <string name="description_10">Instead of worrying about obstacles, face challenges with strength and determination.</string>
+    <string name="description_11">Success doesn’t happen by chance. You have to actively seek and work for it.</string>
+    <string name="description_12">Hard work can surpass natural talent when you are committed and focused.</string>
+    <string name="description_13">Make every day matter by taking steps toward your goals and making the most of your time.</string>
+    <string name="description_14">Be the catalyst for change. Take the initiative to improve the world around you.</string>
+    <string name="description_15">No need to wait for the perfect moment. Start where you are, and progress will follow.</string>
+    <string name="description_16">Even when progress feels slow, keep going. Every step forward brings you closer to your goal.</string>
+    <string name="description_17">There’s no time limit on success. It’s never too late to pursue the person you want to become.</string>
+    <string name="description_18">Achieving greatness requires patience. The most worthwhile things take time to develop.</string>
+    <string name="description_19">Push yourself beyond your comfort zone, because no one else can make you achieve your dreams.</string>
+    <string name="description_20">Don’t give up. Keep striving until you’ve reached a level of success that makes you proud.</string>
+    <string name="description_21">Stop dreaming and start doing. Transform your goals into action to make them a reality.</string>
+    <string name="description_22">Success isn’t a final destination. It’s a continuous journey of learning, growth, and improvement.</string>
+    <string name="description_23">Believe that with persistence and effort, you will get there. You just haven’t reached it yet.</string>
+    <string name="description_24">Dream big and aim high. Keep your focus on your highest aspirations and work toward them.</string>
+    <string name="description_25">There is no better time than now to take action. Don’t wait for the right moment; create it.</string>
+    <string name="description_26">Enjoy the process of reaching your goals. The journey itself is a valuable experience.</string>
+    <string name="description_27">What you do today directly shapes the future you will live tomorrow. Take purposeful actions now.</string>
+    <string name="description_28">Pursue your dreams with determination, no matter how far off they seem.</string>
+    <string name="description_29">The key to success is self-discipline. Focus on good habits and staying committed to your goals.</string>
+    <string name="description_30">You already have the inner strength and abilities to succeed. Trust yourself and keep moving forward.</string>
+</resources>
